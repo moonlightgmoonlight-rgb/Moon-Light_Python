@@ -27,4 +27,3 @@ This README includes **icons**, **badges**, and a clean structure for GitHub.
 
 ---
 
-## 📂 Project Structure
